@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atg/Documents/programming/vitastuff/mystuff/src/Calculator.h
+
+/home/atg/Documents/programming/vitastuff/mystuff/src/main.cpp
+psp2/kernel/processmgr.h
+-
+sstream
+-
+Calculator.h
+/home/atg/Documents/programming/vitastuff/mystuff/src/Calculator.h
+cstdio
+-
+

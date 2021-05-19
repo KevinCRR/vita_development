@@ -1,0 +1,5 @@
+/home/atg/Documents/programming/vitastuff/mystuff/build/Debug/CMakeFiles/edit_cache.dir
+/home/atg/Documents/programming/vitastuff/mystuff/build/Debug/CMakeFiles/calculator.vpk.dir
+/home/atg/Documents/programming/vitastuff/mystuff/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/atg/Documents/programming/vitastuff/mystuff/build/Debug/CMakeFiles/calculator.self.dir
+/home/atg/Documents/programming/vitastuff/mystuff/build/Debug/CMakeFiles/calculator.dir

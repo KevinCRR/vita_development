@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/atg/Documents/programming/vitastuff/mystuff/build/Debug",
+  "command": "/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -I/home/atg/Documents/programming/vitastuff/mystuff/../common   -Wl,-q -std=gnu11 -O0 -g -DDEBUG -D_DEBUG   -o CMakeFiles/calculator.dir/src/main.c.obj   -c /home/atg/Documents/programming/vitastuff/mystuff/src/main.c",
+  "file": "/home/atg/Documents/programming/vitastuff/mystuff/src/main.c"
+},
+{
+  "directory": "/home/atg/Documents/programming/vitastuff/mystuff/build/Debug",
+  "command": "/usr/local/vitasdk/bin/arm-vita-eabi-gcc  -I/home/atg/Documents/programming/vitastuff/mystuff/../common   -Wl,-q -std=gnu11 -O0 -g -DDEBUG -D_DEBUG   -o CMakeFiles/calculator.dir/home/atg/Documents/programming/vitastuff/common/debugScreen.c.obj   -c /home/atg/Documents/programming/vitastuff/common/debugScreen.c",
+  "file": "/home/atg/Documents/programming/vitastuff/common/debugScreen.c"
+}
+]

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/atg/Documents/programming/vitastuff/mystuff/src/main.c
+psp2/kernel/threadmgr.h
+-
+psp2/kernel/processmgr.h
+-
+stdio.h
+-
+
